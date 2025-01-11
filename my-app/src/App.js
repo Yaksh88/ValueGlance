@@ -14,7 +14,7 @@ import Footer from "./Components/Footer.js"
 const App = () => {
 
 
-//We defined useEfect hook to efficiently 
+//We defined useEfect hook to efficiently fetch data
   useEffect(() => {
     const fetchData = async () => { //This function will get the data from the API we mentioned above
      try {                           
