@@ -41,3 +41,10 @@
    ```
   npm chown -R $(whoami) (project)
    ```
+
+**Deployed**
+Please use the link to see the deployed version of the app:
+
+https://valueglance.web.app/
+
+
