@@ -43,10 +43,13 @@
    ```
   npm chown -R $(whoami) (project)
    ```
+- There is a limit to number of times we can access data through the API, if it runs out it will run into error
 
 **Deployed**:
 Please use the link to see the deployed version of the app:
 
 https://valueglance.web.app/
 
+Thank you for reviewing my project! I’ve designed this application to showcase my skills in front-end development and attempted to integrate a Flask-based backend for additional functionality. Although the backend is currently not fully integrated with the front end, I’ve included the code as part of my effort to explore and implement backend services.
 
+If you have any questions or need further clarifications, feel free to reach out. I appreciate your time and feedback!
