@@ -9,6 +9,8 @@
       
       cd project-repo
 
+### OR
+
    **Dowload the repository by using the green <> Code button**
    
    -Extract files from the folder and open the folder in an IDE (VS Code)
