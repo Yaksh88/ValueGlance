@@ -10,7 +10,9 @@
       cd project-repo
 
    **Dowload the repository by using the green <> Code button**
+   
    -Extract files from the folder and open the folder in an IDE (VS Code)
+   
    -Next Open terminal in the directory of project and change directory to "my-app" 
 
        cd my-app
